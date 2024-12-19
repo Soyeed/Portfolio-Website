@@ -8,7 +8,7 @@ Welcome to **Cynthia Ugwu** Portfolio website a Awwwards winging of Cynthia Ugwu
 ## Table 
 1.[About](#about)  
 2.[Features](#features)  
-3.[Installation](#installation)  
+3.[Installation](#installation)
 4.[Setup Instructions](#SetupInstructions) 
 
 
