@@ -6,10 +6,10 @@
 Welcome to **Cynthia Ugwu** Portfolio website a Awwwards winging of Cynthia Ugwu, a talented product designer.
 
 ## Table 
-1.[About](#about)  
-2.[Features](#features)  
-3.[Installation](#installation)
-4.[Setup Instructions](#SetupInstructions) 
+1. [About](#about)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Setup Instructions](#SetupInstructions)
 
 ## About
 This is clone of **Cynthia Ugwu** portfolio website was built using HTML, CSS, and JavaScript, and includes advanced animations and smooth scrolling effects for a modern, interactive experience.
