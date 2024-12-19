@@ -11,7 +11,6 @@ Welcome to **Cynthia Ugwu** Portfolio website a Awwwards winging of Cynthia Ugwu
 3.[Installation](#installation)
 4.[Setup Instructions](#SetupInstructions) 
 
-
 ## About
 This is clone of **Cynthia Ugwu** portfolio website was built using HTML, CSS, and JavaScript, and includes advanced animations and smooth scrolling effects for a modern, interactive experience.
 
