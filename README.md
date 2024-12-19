@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Portfolio-Website
-=======
+
 ## Cynthia Ugwu
 Welcome to **Cynthia Ugwu** Portfolio website a Awwwards winging of Cynthia Ugwu, a talented product designer.
 
