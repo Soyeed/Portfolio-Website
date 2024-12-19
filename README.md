@@ -19,7 +19,5 @@ This is clone of **Cynthia Ugwu** portfolio website was built using HTML, CSS, a
 - **Smooth Scrolling:** Implemented using Locomotive Scroll for an enhanced user experience.
 - **Interactive Animations:** Added animations using ASAP Animation Library.
 - **Modern UI/UX:** Mimics the design and user experience of the original award-winning website.
->>>>>>> add in readme file
-=======
-# Portfolio-Website
->>>>>>> 0b16099e55ad1ed92a0c7ff29811073c7cf6d79f
+
+
